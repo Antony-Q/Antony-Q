@@ -3,7 +3,12 @@
 -----
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
-### My skills
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Q&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antony-Q&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
+
+### My Skills
 
 - **Web Development**
 <table>
@@ -79,12 +84,7 @@
 </tr>
 </tbody>
 </table>
-
 <br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Q&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antony-Q&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
 
 <br> <br>
 <!--  <a href="https://twitter.com/[REDACTED]">
