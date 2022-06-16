@@ -1,31 +1,16 @@
 ### Hello World, I'm Antony!
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
-### My skills :woman_technologist:
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+### My skills
 
 - **Web Development**
 <table>
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -33,7 +18,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </td>
 
 </td>
@@ -57,45 +42,44 @@
 </tbody>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
-
-### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    
+### I'm currently learning
+  
 - **Web Development**
 <table>
 <tbody>
- <tr>
-<td align="center" width="50%">
+<tr>
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 </tr>
 </tbody>
 </table>
 
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
-    
+- **Data Science**
+<table>
+<tbody>
+<tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+- **Object-oriented Programming**
+<table>
+<tbody>
+<tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Q&layout=compact&theme=radical" alt="My Github Stats">
@@ -103,18 +87,18 @@
 </p>
 
 <br> <br>
- <a href="https://twitter.com/[REDACTED]">
+<!--  <a href="https://twitter.com/[REDACTED]">
   <img align="left" alt="Antony's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/antony-quinones-086a91227/">
   <img align="left" alt="Antony's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Antony-Q">
   <img align="left" alt="Antony's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/[REDACTED]/">
+<!-- <a href="https://www.instagram.com/[REDACTED]/">
   <img align="left" alt="Antony's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.facebook.com/[REDACTED]">
   <img align="left" alt="Antony's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
@@ -123,7 +107,7 @@
 </a>
 <br><br>
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting!
 ![VisitorCount](https://profile-counter.glitch.me/Antony-Q/count.svg)
 
 
