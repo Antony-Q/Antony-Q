@@ -1,7 +1,7 @@
 ### Hello World, I'm Antony!
 
 -----
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Web Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Q&layout=compact&theme=radical" alt="My Github Stats">
